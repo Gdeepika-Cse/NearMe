@@ -1,4 +1,4 @@
-<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/611c6ac4-a6bc-4f47-ae74-2fb99b52e868" /># Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 24-10-2025
 # NAME: DEEPIKA G
 # REG.NO: 212224040060
